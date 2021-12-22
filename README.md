@@ -1,7 +1,6 @@
 # zomato_ui
 
-A new Flutter project.
-
+Zomato User-Interface.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
