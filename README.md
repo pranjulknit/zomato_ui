@@ -2,7 +2,7 @@
 
 Upadated 2021 UI:
 
-<image src="https://github.com/pranjulknit/zomato_ui/blob/dev2/lib/Updated_ui.jpg" width="270" height="450">
+<image src="https://github.com/pranjulknit/zomato_ui/blob/dev2/lib/Updated_ui.jpg" width="275" height="480">
   
   
 # What I learn:-
